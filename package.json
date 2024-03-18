@@ -1,0 +1,24 @@
+{
+  "name": "dash-dash",
+  "version": "1.0.0",
+  "description": "I am practicing making package, gjør lista lav, selvomsorg, 10 år",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniTei/sp-2--.git"
+  },
+  "keywords": [
+    "blank",
+    "practice"
+  ],
+  "author": "Anine Teigland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniTei/sp-2--/issues"
+  },
+  "homepage": "https://github.com/AniTei/sp-2--#readme"
+}
