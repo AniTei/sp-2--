@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AniTei/sp-2--/issues"
   },
-  "homepage": "https://github.com/AniTei/sp-2--#readme"
+  "homepage": "https://github.com/AniTei/sp-2--#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
